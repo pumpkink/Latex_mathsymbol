@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.5.13)  13 MAY 2016 12:01
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.5.13)  13 MAY 2016 14:41
 entering extended mode
 **./mathsymbol.tex
 (mathsymbol.tex
@@ -116,30 +116,51 @@ Underfull \hbox (badness 10000) in paragraph at lines 36--38
 
  []
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--41
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--42
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 44--45
+
+ []
+
 [1
 
 {C:/Users/hou/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-(mathsymbol.aux) ) 
+Underfull \hbox (badness 10000) in paragraph at lines 88--89
+
+ []
+
+[2] (mathsymbol.aux) ) 
 Here is how much of TeX's memory you used:
  1100 strings out of 493634
  12300 string characters out of 3140915
- 67378 words of memory out of 3000000
+ 69378 words of memory out of 3000000
  4531 multiletter control sequences out of 15000+200000
  6266 words of font info for 25 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
- 27i,8n,26p,230b,117s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Users/hou/Desktop/Baidu Map/1/2/fonts/type1/public/amsfon
-ts/cm/cmbx10.pfb><C:/Users/hou/Desktop/Baidu Map/1/2/fonts/type1/public/amsfont
-s/cm/cmex10.pfb><C:/Users/hou/Desktop/Baidu Map/1/2/fonts/type1/public/amsfonts
-/cm/cmmi10.pfb><C:/Users/hou/Desktop/Baidu Map/1/2/fonts/type1/public/amsfonts/
-cm/cmmi7.pfb><C:/Users/hou/Desktop/Baidu Map/1/2/fonts/type1/public/amsfonts/cm
-/cmr10.pfb><C:/Users/hou/Desktop/Baidu Map/1/2/fonts/type1/public/amsfonts/cm/c
-mr7.pfb><C:/Users/hou/Desktop/Baidu Map/1/2/fonts/type1/public/amsfonts/cm/cmsy
-10.pfb><C:/Users/hou/Desktop/Baidu Map/1/2/fonts/type1/public/amsfonts/cm/cmsy7
-.pfb>
-Output written on mathsymbol.pdf (1 page, 90642 bytes).
+ 27i,9n,26p,230b,133s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Users/hou/Desktop/Baidu Map/1/2/fonts/type1/public/am
+sfonts/cm/cmbx10.pfb><C:/Users/hou/Desktop/Baidu Map/1/2/fonts/type1/public/ams
+fonts/cm/cmex10.pfb><C:/Users/hou/Desktop/Baidu Map/1/2/fonts/type1/public/amsf
+onts/cm/cmmi10.pfb><C:/Users/hou/Desktop/Baidu Map/1/2/fonts/type1/public/amsfo
+nts/cm/cmmi5.pfb><C:/Users/hou/Desktop/Baidu Map/1/2/fonts/type1/public/amsfont
+s/cm/cmmi7.pfb><C:/Users/hou/Desktop/Baidu Map/1/2/fonts/type1/public/amsfonts/
+cm/cmr10.pfb><C:/Users/hou/Desktop/Baidu Map/1/2/fonts/type1/public/amsfonts/cm
+/cmr5.pfb><C:/Users/hou/Desktop/Baidu Map/1/2/fonts/type1/public/amsfonts/cm/cm
+r7.pfb><C:/Users/hou/Desktop/Baidu Map/1/2/fonts/type1/public/amsfonts/cm/cmsy1
+0.pfb><C:/Users/hou/Desktop/Baidu Map/1/2/fonts/type1/public/amsfonts/cm/cmsy7.
+pfb>
+Output written on mathsymbol.pdf (2 pages, 114537 bytes).
 PDF statistics:
- 38 PDF objects out of 1000 (max. 8388607)
+ 49 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
